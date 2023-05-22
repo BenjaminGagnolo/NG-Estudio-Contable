@@ -7,7 +7,6 @@ export default function Contact() {
     <>
       <NavBar />
 
-      <div>
         <div className="px-12  sm:px-12 sm:pt-32">
           <h3 className="text-base font-semibold leading-7 text-gray-900">
             Información de contacto
@@ -52,7 +51,11 @@ export default function Contact() {
             </div>
           </dl>
         </div>
-      </div>
+      
+      <br />
+      <br />
+      <br />
+      <br />
       <Footer />
     </>
   );

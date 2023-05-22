@@ -4,7 +4,7 @@ import { Disclosure, Menu, Transition } from '@headlessui/react'
 import { Bars3Icon, BellIcon, XMarkIcon } from '@heroicons/react/24/outline'
 import Logo from '../../../public/LOGO2.png'
 const navigation = [
-  { name: 'Inicio', href: '', current: false },
+  { name: 'Inicio', href: 'home', current: false },
   { name: 'Sobre Nosotros', href: 'about', current: false },
   { name: 'Contactos', href: 'contact', current: false },
 ]
