@@ -1,5 +1,5 @@
 import NavBar from "../NavBar/NavBar";
-import LogoUNRC from "../../../public/UNRC.png";
+import LogoUNRC from "../../../public/UNRCLOGO.png";
 import Footer from "../Footer/Footer";
 import React, { useEffect } from "react";
 
