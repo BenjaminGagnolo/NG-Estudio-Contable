@@ -22,7 +22,7 @@ export default function Contact() {
                 Horarios de atención: 
               </dt>
               <dd className="mt-1 text-sm leading-6 text-gray-700 sm:col-span-2 sm:mt-0">
-                Lunes a Viernes (8:00 - 12:00) (15:00 - 18:00)
+                Lunes a Viernes (8:30 - 12:30) (14:00 - 18:00)
               </dd>
             </div>
             <div className="px-4 py-6 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-0">
@@ -38,20 +38,12 @@ export default function Contact() {
                 Mail:{" "}
               </dt>
               <dd className="mt-1 text-sm leading-6 text-gray-700 sm:col-span-2 sm:mt-0">
-                benjamingagnolo@gmail.com
+              nico_gag9@hotmail.com
               </dd>
             </div>
-            <div className="px-4 py-6 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-0">
-              <dt className="text-sm font-medium leading-6 text-gray-900">
-                LinkedIn:{" "}
-              </dt>
-              <dd className="mt-1 text-sm leading-6 text-gray-700 sm:col-span-2 sm:mt-0">
-                Hacerle LinkedIn
-              </dd>
-            </div>
+
           </dl>
-        </div>
-      
+        </div>    
       <br />
       <br />
       <br />

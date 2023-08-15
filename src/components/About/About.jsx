@@ -1,14 +1,13 @@
 import NavBar from "../NavBar/NavBar";
 import Logo from "../../../public/UNRC.png";
 import Footer from "../Footer/Footer";
-import React, { useEffect } from 'react';
-
+import React, { useEffect } from "react";
 
 const About = () => {
   useEffect(() => {
     window.scrollTo(0, 0);
   }, []);
-  
+
   return (
     <>
       <NavBar />
@@ -19,15 +18,13 @@ const About = () => {
               Un poco sobre nosotros
             </h2>
             <p className="mt-4 text-lg leading-8 text-gray-900">
-              Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui
-              lorem cupidatat commodo. Elit sunt amet Lorem ipsum dolor sit
-              amet,adipisicing elit. Asperiores, placeat numquam facilis odio
-              esse, officia architecto perferendisnt inventore illo accusantium
-              facere! Lorem ipsum dolor sit amet, adipisicing elit. Asperiores,
-              placeat numquam facilis odio esse, officia architecto
-              perferendisnt inventore illo accusantium facere! adipisicing elit.
-              Asperiores, placeat numquam facilis odio esse, officia architecto
-              perferendisnt inventore illo accusantium facere!
+              Soy Nicolás Gagnolo, un contador con más de 8 años de
+              experiencia en el campo financiero y contable. Mi
+              formación académica tuvo lugar en la Universidad Nacional de Río
+              Cuarto (UNRC), donde adquirí las bases sólidas que me han
+              permitido destacarme en mi carrera. A lo largo de los años, he
+              perfeccionado mis habilidades en áreas cruciales como la
+              contabilidad, el análisis financiero y la gestión fiscal.
             </p>
           </div>
         </div>
@@ -47,7 +44,7 @@ const About = () => {
               <div className="flex items-center gap-x-4 text-xs"></div>
               <div className="group relative">
                 <h3 className="mt-3 text-lg font-semibold leading-6 text-gray-900 ">
-                  <a href="https://www.unrc.edu.ar/ " target="_blank" > 
+                  <a href="https://www.unrc.edu.ar/ " target="_blank">
                     Universidad Nacional de Rio Cuarto
                   </a>
                 </h3>
@@ -63,13 +60,11 @@ const About = () => {
                 </div>
               </div>
             </article>
-            <article className="flex max-w-xl flex-col items-start justify-between">
+{/*             <article className="flex max-w-xl flex-col items-start justify-between">
               <div className="flex items-center gap-x-4 text-xs"></div>
               <div className="group relative">
                 <h3 className="mt-3 text-lg font-semibold leading-6 text-gray-900 ">
-                  <p>
-                    Si quiere agregar algo 
-                  </p>
+                  <p>Si quiere agregar algo</p>
                 </h3>
               </div>
               <div className="relative mt-8 flex items-center gap-x-4">
@@ -82,11 +77,9 @@ const About = () => {
                   <p className="font-semibold text-gray-900"></p>
                 </div>
               </div>
-            </article>
+            </article> */}
           </div>
-          
         </div>
-        
       </div>
       <br />
       <Footer />

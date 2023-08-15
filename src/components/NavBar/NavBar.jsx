@@ -2,7 +2,7 @@ import { Fragment} from 'react'
 import { Link } from "react-router-dom";
 import { Disclosure, Menu, Transition } from '@headlessui/react'
 import { Bars3Icon, BellIcon, XMarkIcon } from '@heroicons/react/24/outline'
-import Logo from '../../../public/LOGO2.png'
+import Logo from '../../../public/LOGO3.png'
 const navigation = [
   { name: 'Inicio', href: 'home', current: false },
   { name: 'Sobre Nosotros', href: 'about', current: false },

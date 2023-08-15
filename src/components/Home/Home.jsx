@@ -52,7 +52,7 @@ function Home() {
       <div className="mx-auto max-w-2xl pt-20  py-26 sm:py-21 lg:py-39 ">
         <div className="text-center">
           <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-5xl">
-            Bienvenidos a estudio contable Gagnolo
+            Bienvenidos
           </h1>
           <p className="mt-6 text-lg leading-8 text-gray-600">
             Somos un Estudio dedicado a brindar asesoramiento integral y
