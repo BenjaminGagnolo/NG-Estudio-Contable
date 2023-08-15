@@ -1,5 +1,6 @@
 
 import Logo from "../../../public/LOGO1.png";
+
 const Footer = () => {
   return (
     <footer>
