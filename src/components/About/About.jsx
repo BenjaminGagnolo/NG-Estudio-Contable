@@ -1,5 +1,6 @@
 import NavBar from "../NavBar/NavBar";
 import LogoUNRC from "../../../public/UNRCLOGO.png";
+import Logo from "../../../public/LOGO1.png";
 import Footer from "../Footer/Footer";
 import React, { useEffect } from "react";
 
@@ -51,7 +52,7 @@ const About = () => {
               </div>
               <div className="relative mt-8 flex items-center gap-x-4">
                 <img
-                  src={LogoUNRC}
+                  src={Logo}
                   alt=""
                   className="h-10 w-10 rounded-full bg-gray-50"
                 />{" "}
