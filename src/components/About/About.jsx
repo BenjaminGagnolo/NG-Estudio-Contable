@@ -60,25 +60,7 @@ const About = () => {
                   <p className="font-semibold text-gray-900"></p>
                 </div>
               </div>
-            </article>
-{/*             <article className="flex max-w-xl flex-col items-start justify-between">
-              <div className="flex items-center gap-x-4 text-xs"></div>
-              <div className="group relative">
-                <h3 className="mt-3 text-lg font-semibold leading-6 text-gray-900 ">
-                  <p>Si quiere agregar algo</p>
-                </h3>
-              </div>
-              <div className="relative mt-8 flex items-center gap-x-4">
-                <img
-                  src={Logo}
-                  alt=""
-                  className="h-10 w-10 rounded-full bg-gray-50"
-                />{" "}
-                <div className="text-sm leading-6">
-                  <p className="font-semibold text-gray-900"></p>
-                </div>
-              </div>
-            </article> */}
+            </article> 
           </div>
         </div>
       </div>
