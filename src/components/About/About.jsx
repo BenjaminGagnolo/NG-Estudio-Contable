@@ -60,7 +60,7 @@ const About = () => {
                   <p className="font-semibold text-gray-900"></p>
                 </div>
               </div>
-            </article> 
+            </article>
           </div>
         </div>
       </div>
